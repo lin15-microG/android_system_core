@@ -95541,3 +95541,15 @@
 ::1 bs.serving-sys.com.20384.9120.302br.net
 127.0.0.1 alltraff.ru
 ::1 alltraff.ru
+127.0.0.1 rink.hockeyapp.net
+::1 rink.hockeyapp.net
+127.0.0.1 sdk.hockeyapp.net
+::1 sdk.hockeyapp.net
+127.0.0.1 config.hockeyapp.net
+::1 config.hockeyapp.net
+127.0.0.1 install.hockeyapp.net
+::1 install.hockeyapp.net
+127.0.0.1 gate.hockeyapp.net
+::1 gate.hockeyapp.net
+127.0.0.1 cdn.hockeyapp.net
+::1 cdn.hockeyapp.net
